@@ -1,0 +1,74 @@
+2023-05-17T16:19:05.607 INFO Local users：0
+2023-05-17T16:19:05.616 INFO Attempting to read local daemon D:\PC\New folder\docker\daemon\data\Config\global.json
+2023-05-17T16:19:05.621 WARN Unable to load configuration from local daemon, please configure the daemon manually. Visit https://docs.mcsmanager.com/ for more information.
+2023-05-17T16:19:05.624 INFO Remote nodes: 0
+2023-05-17T16:19:05.643 INFO ==================================
+2023-05-17T16:19:05.644 INFO Panel started.
+2023-05-17T16:19:05.645 INFO Project reference: https://github.com/mcsmanager
+2023-05-17T16:19:05.646 INFO Access address: http://localhost:23333
+2023-05-17T16:19:05.648 INFO You need to open daemon port and port 23333 for public access.
+2023-05-17T16:19:05.651 INFO Use Ctrl+C to close this program.
+2023-05-17T16:19:05.653 INFO ==================================
+2023-05-17T16:19:06.970 INFO [HTTP] GET: http://localhost:23333/
+2023-05-17T16:19:07.043 INFO [HTTP] IP: ::1 USER: undefined UUID: undefined
+2023-05-17T16:19:07.309 INFO [HTTP] GET: http://localhost:23333/css/chunk-vendors.e7e6b1c7.css
+2023-05-17T16:19:07.312 INFO [HTTP] IP: ::1 USER: undefined UUID: undefined
+2023-05-17T16:19:07.328 INFO [HTTP] GET: http://localhost:23333/css/index.c8b1d0ba.css
+2023-05-17T16:19:07.330 INFO [HTTP] IP: ::1 USER: undefined UUID: undefined
+2023-05-17T16:19:07.341 INFO [HTTP] GET: http://localhost:23333/js/chunk-vendors.5e846f96.js
+2023-05-17T16:19:07.344 INFO [HTTP] IP: ::1 USER: undefined UUID: undefined
+2023-05-17T16:19:07.346 INFO [HTTP] GET: http://localhost:23333/js/index.6216d3c9.js
+2023-05-17T16:19:07.347 INFO [HTTP] IP: ::1 USER: undefined UUID: undefined
+2023-05-17T16:19:07.353 INFO [HTTP] GET: http://localhost:23333/static/editor/ace.js
+2023-05-17T16:19:07.354 INFO [HTTP] IP: ::1 USER: undefined UUID: undefined
+2023-05-17T16:19:08.444 INFO [HTTP] GET: http://localhost:23333/api/auth/?token=
+2023-05-17T16:19:08.445 INFO [HTTP] IP: ::1 USER: undefined UUID: undefined
+2023-05-17T16:19:08.525 INFO [HTTP] GET: http://localhost:23333/api/auth/status?token=
+2023-05-17T16:19:08.526 INFO [HTTP] IP: ::1 USER: undefined UUID: undefined
+2023-05-17T16:19:08.718 INFO [HTTP] GET: http://localhost:23333/img/logo.7970001e.png
+2023-05-17T16:19:08.719 INFO [HTTP] IP: ::1 USER: undefined UUID: undefined
+2023-05-17T16:19:08.721 INFO [HTTP] GET: http://localhost:23333/img/side.db2a2960.png
+2023-05-17T16:19:08.722 INFO [HTTP] IP: ::1 USER: undefined UUID: undefined
+2023-05-17T16:19:08.829 INFO [HTTP] GET: http://localhost:23333/api/auth/?token=
+2023-05-17T16:19:08.830 INFO [HTTP] IP: ::1 USER: undefined UUID: undefined
+2023-05-17T16:19:08.896 INFO [HTTP] GET: http://localhost:23333/fonts/element-icons.d9491be2.woff
+2023-05-17T16:19:08.897 INFO [HTTP] IP: ::1 USER: undefined UUID: undefined
+2023-05-17T16:19:09.049 INFO [HTTP] GET: http://localhost:23333/api/auth/?token=
+2023-05-17T16:19:09.051 INFO [HTTP] IP: ::1 USER: undefined UUID: undefined
+2023-05-17T16:19:09.141 INFO [HTTP] POST: http://localhost:23333/api/auth/login_info?token=
+2023-05-17T16:19:09.142 INFO [HTTP] IP: ::1 USER: undefined UUID: undefined
+2023-05-17T16:19:09.252 INFO [HTTP] GET: http://localhost:23333/manifest.json
+2023-05-17T16:19:09.253 INFO [HTTP] IP: ::1 USER: undefined UUID: undefined
+2023-05-17T16:19:09.835 INFO [HTTP] GET: http://localhost:23333/api/auth/?token=
+2023-05-17T16:19:09.836 INFO [HTTP] IP: ::1 USER: undefined UUID: undefined
+2023-05-17T16:19:10.261 WARN Language change: en_us
+2023-05-17T16:19:10.632 INFO Attempting to read local daemon D:\PC\New folder\docker\daemon\data\Config\global.json
+2023-05-17T16:19:10.644 WARN Unable to load configuration from local daemon, please configure the daemon manually. Visit https://docs.mcsmanager.com/ for more information.
+2023-05-17T16:19:15.705 INFO Attempting to read local daemon D:\PC\New folder\docker\daemon\data\Config\global.json
+2023-05-17T16:19:15.775 WARN Unable to load configuration from local daemon, please configure the daemon manually. Visit https://docs.mcsmanager.com/ for more information.
+2023-05-17T16:19:20.849 INFO Attempting to read local daemon D:\PC\New folder\docker\daemon\data\Config\global.json
+2023-05-17T16:19:20.853 WARN Unable to load configuration from local daemon, please configure the daemon manually. Visit https://docs.mcsmanager.com/ for more information.
+2023-05-17T16:19:25.869 INFO Attempting to read local daemon D:\PC\New folder\docker\daemon\data\Config\global.json
+2023-05-17T16:19:25.871 WARN Unable to load configuration from local daemon, please configure the daemon manually. Visit https://docs.mcsmanager.com/ for more information.
+2023-05-17T16:19:30.876 INFO Attempting to read local daemon D:\PC\New folder\docker\daemon\data\Config\global.json
+2023-05-17T16:19:30.881 WARN Unable to load configuration from local daemon, please configure the daemon manually. Visit https://docs.mcsmanager.com/ for more information.
+2023-05-17T16:19:35.897 INFO Attempting to read local daemon D:\PC\New folder\docker\daemon\data\Config\global.json
+2023-05-17T16:19:35.899 WARN Unable to load configuration from local daemon, please configure the daemon manually. Visit https://docs.mcsmanager.com/ for more information.
+2023-05-17T16:19:40.922 INFO Attempting to read local daemon D:\PC\New folder\docker\daemon\data\Config\global.json
+2023-05-17T16:19:40.925 WARN Unable to load configuration from local daemon, please configure the daemon manually. Visit https://docs.mcsmanager.com/ for more information.
+2023-05-17T16:19:45.947 INFO Attempting to read local daemon D:\PC\New folder\docker\daemon\data\Config\global.json
+2023-05-17T16:19:45.948 WARN Unable to load configuration from local daemon, please configure the daemon manually. Visit https://docs.mcsmanager.com/ for more information.
+2023-05-17T16:19:50.968 INFO Attempting to read local daemon D:\PC\New folder\docker\daemon\data\Config\global.json
+2023-05-17T16:19:50.976 WARN Unable to load configuration from local daemon, please configure the daemon manually. Visit https://docs.mcsmanager.com/ for more information.
+2023-05-17T16:19:55.995 INFO Attempting to read local daemon D:\PC\New folder\docker\daemon\data\Config\global.json
+2023-05-17T16:19:55.997 WARN Unable to load configuration from local daemon, please configure the daemon manually. Visit https://docs.mcsmanager.com/ for more information.
+2023-05-17T16:20:01.011 INFO Attempting to read local daemon D:\PC\New folder\docker\daemon\data\Config\global.json
+2023-05-17T16:20:01.015 WARN Unable to load configuration from local daemon, please configure the daemon manually. Visit https://docs.mcsmanager.com/ for more information.
+2023-05-17T16:20:06.021 INFO Attempting to read local daemon D:\PC\New folder\docker\daemon\data\Config\global.json
+2023-05-17T16:20:06.022 WARN Unable to load configuration from local daemon, please configure the daemon manually. Visit https://docs.mcsmanager.com/ for more information.
+2023-05-17T16:20:11.039 INFO Attempting to read local daemon D:\PC\New folder\docker\daemon\data\Config\global.json
+2023-05-17T16:20:11.040 WARN Unable to load configuration from local daemon, please configure the daemon manually. Visit https://docs.mcsmanager.com/ for more information.
+2023-05-17T16:20:16.052 INFO Attempting to read local daemon D:\PC\New folder\docker\daemon\data\Config\global.json
+2023-05-17T16:20:16.054 WARN Unable to load configuration from local daemon, please configure the daemon manually. Visit https://docs.mcsmanager.com/ for more information.
+2023-05-17T16:20:21.069 INFO Attempting to read local daemon D:\PC\New folder\docker\daemon\data\Config\global.json
+2023-05-17T16:20:21.070 WARN Unable to load configuration from local daemon, please configure the daemon manually. Visit https://docs.mcsmanager.com/ for more information.
